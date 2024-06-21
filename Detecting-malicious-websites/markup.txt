@@ -1,0 +1,786 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi-vn" lang="vi-vn" >
+<head>
+<img src="//bat.bing.com/action/0?ti=5186854&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K58PHQ9');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Google Website Optimizer Control Script -->
+<script>
+function utmx_section(){}function utmx(){}
+(function(){var k='0865799587',d=document,l=d.location,c=d.cookie;function f(n){
+if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.
+length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+
+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
++'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
++new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script><script>utmx("url",'A/B');</script>
+<!-- End of Google Website Optimizer Control Script -->
+<!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['gwo._setAccount', 'UA-19124919-1']);
+  _gaq.push(['gwo._trackPageview', '/0865799587/test']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Website Optimizer Tracking Script -->
+
+  <base href="http://www.vnic.co/khach-hang.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Dịch vụ doanh nghiệp | dịch vụ thành lập doanh nghiệp | dichvudoanhnghiep.com.vn| Viet Nam Investment Consultant" />
+  <meta name="title" content="Khách Hàng" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="Dịch vụ doanh nghiệp | dịch vụ thành lập doanh nghiệp | dichvudoanhnghiep.com.vn| Viet Nam Investment Consultant" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Khách Hàng / VNIC Co.,LTD | Công Ty TNHH Tư Vấn Đầu Tư Việt Nam | dịch vụ thành lập công ty | Viet Nam Investment Consultant | đăng ký kinh doanh công ty TNHH - Cổ Phần - Công ty có vốn nước ngoài | chi nhánh công ty | Văn phòng đại diện | địa điểm kinh doanh | thay đổi giấy phép kinh doanh - doanh nghiệp - công ty | điều chỉnh địa chỉ trụ sở công ty - văn phòng đại diện - chi nhánh - địa điểm kinh doanh | hô kinh doanh cá thể | bổ sung tăng giảm ngành nghề đăng ký kinh doanh - doanh nghiệp | tăng - giảm vốn | thuế - kế toán - số sách kế toán</title>
+  <link href="/templates/fusion/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <link rel="stylesheet" href="http://www.vnic.co/plugins/content/ja_tabs/ja_tabs.css" type="text/css" media="screen"/>
+<script type='text/javascript' src='http://www.vnic.co/plugins/content/ja_tabs/ja_tabs.js' charset="utf-8"></script>
+
+<meta http-equiv="Content-Type" content="text/html; _ISO" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link href="http://www.vnic.co/templates/fusion/css/template.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.vnic.co/templates/fusion/css/editor.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.vnic.co/templates/fusion/css/suckerfish.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="http://www.vnic.co/templates/fusion/css/blue.css" rel="stylesheet" type="text/css" media="screen" /><link href="http://www.vnic.co/templates/fusion/css/lytebox.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="http://www.vnic.co/templates/fusion/js/s5_effects.js"></script>
+
+<script type="text/javascript" src="http://www.vnic.co/templates/fusion/js/jquery13.js"></script>
+<script type="text/javascript" src="http://www.vnic.co/templates/fusion/js/jquery_no_conflict.js"></script>
+
+<script type="text/javascript">
+var s5_fading_menu = "yes";
+function s5_jqmainmenu(){
+jQuery(" #navlist ul ").css({display: "none"}); // Opera Fix
+jQuery(" #s5_navv li").hover(function(){
+		jQuery(this).find('ul:first').css({visibility: "visible",display: "none"}).fadeIn(500);
+		},function(){jQuery(this).find('ul:first').css({visibility: "hidden"});	});}
+  jQuery(document).ready(function(){ s5_jqmainmenu();});
+</script>
+<script type="text/javascript" src="http://www.vnic.co/templates/fusion/js/lytebox.js"></script>
+
+
+
+	
+	
+
+
+<style type="text/css"> 
+.s5_wrap {width:1000px;}
+	
+#s5_mainbody, #s5_mainbodybread {margin-right:251px;}
+	
+	
+	
+
+	
+</style>
+</head>
+
+
+
+
+
+
+<!-- Google Website Optimizer Control Script -->
+<script>
+function utmx_section(){}function utmx(){}
+(function(){var k='0865799587',d=document,l=d.location,c=d.cookie;function f(n){
+if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.
+length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+
+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
++'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
++new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script><script>utmx("url",'A/B');</script>
+<!-- End of Google Website Optimizer Control Script -->
+<!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['gwo._setAccount', 'UA-19124919-1']);
+  _gaq.push(['gwo._trackPageview', '/0865799587/test']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Website Optimizer Tracking Script -->
+<body style="background: #189018 ">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K58PHQ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="s5_topback" style="background:transparent url(images/hinhnen/hinhnenlonghoi.jpg) no-repeat center top;"> 
+<div id="s5_bottomback" style="background:transparent url(images/hinhnen/hinhnenlonghoi.jpg) no-repeat center bottom;"> 
+<div class="s5_wrap">
+	<div style="height:140px;">
+		<div id="s5_logo" style="cursor:pointer;" onclick="window.document.location.href='http://www.vnic.co/'"></div>	
+		
+		
+		<div style="clear:both;"></div>
+	</div>
+		
+	
+
+
+	<div style="clear:both;"></div>
+	
+	<div id="s5_menubacktl">
+		<div id="s5_menubacktr">
+			<div id="s5_menubacktm">
+			
+							<!-- Start Menu -->
+				<div id="s5_menu">						
+					<div id="s5_navv">	
+						<ul>
+	<li><span class="s5_outer_active"><span><a class="active" href="/">Trang Chủ<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/dich-vu.html">Dịch Vụ<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>		<ul><li class='s5_toparrow'></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/thanh-lap-cong-ty.html">Thành Lập Công Ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/thanh-lap-don-vi-truc-thuoc-cong-ty.html">Thành lập đơn vị trực thuộc công ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/thay-doi-dang-ky-doanh-nghiep.html">Thay đổi đăng ký doanh nghiệp</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/chuyen-doi-loai-hinh-cong-ty.html">Chuyển đổi loại hình công ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/thanh-lap-cong-ty-tai-singapore.html">Thành lập công ty tại singapore</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/thanh-lap-cong-ty-nuoc-ngoai.html">Thành Lập Công Ty Nước Ngoài</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/dich-vu-mua-ban-cong-ty.html">Dịch Vụ mua bán công ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/mua-ban-tai-san-thanh-ly.html">Mua bán tài sản thanh lý</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/dich-vu/dich-vu-theo-yeu-cau.html">Dịch Vụ Theo Yêu Cầu</a></span></span></li>
+		<li class='s5_menubottom'></li></ul></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/tra-cuu.html">Tra Cứu<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>		<ul><li class='s5_toparrow'></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-ten-cong-ty.html">Tra cứu tên công ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-ma-so-thue-cong-ty.html">Tra cứu mã số thuế công ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-ma-so-thue-ca-nhan.html">Tra cứu mã số thuế cá nhân</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-no-thue-nhap-khau.html">Tra cứu nợ thuế nhập khẩu</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-nhan-hieu-online.html">Tra cứu nhãn hiệu online</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-kieu-dang-cong-nghiep.html">Tra cứu kiểu dáng công nghiệp</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-quyen-so-huu-tri-tue-sang-che.html">Tra cứu quyền sở hữu trí tuệ sáng chế</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/tra-cuu-thu-tuc-hanh-chinh.html">Tra cứu thủ tục hành chính</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/tra-cuu/moi-gioi-bat-dong-san.html">Môi giới bất động sản</a></span></span></li>
+		<li class='s5_menubottom'></li></ul></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/van-ban.html">Văn Bản<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>		<ul><li class='s5_toparrow'></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/van-ban/van-ban-phap-quy-dang-ky-kinh-doanh.html">Văn Bản Pháp Quy Đăng Ký Kinh Doanh</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/van-ban/van-ban-phap-quy-ve-thue.html">Văn bản pháp quy về thuế</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/van-ban/van-ban-ve-thue-mon-bai.html">Văn Bản Về Thuế Môn Bài</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/van-ban/mau-bieu-thong-bao-thue.html">Mẫu Biểu Thông Báo Thuế</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/van-ban/van-ban-ve-hoa-don-chung-tu.html">Văn bản về Hóa Đơn, Chứng Từ</a></span></span></li>
+		<li class='s5_menubottom'></li></ul></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/mua-ban.html">Mua Bán<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>		<ul><li class='s5_toparrow'></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/mua-ban/mua-ban-cong-ty-doanh-nghiep.html">Mua bán công ty/ Doanh nghiệp</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/mua-ban/mua-ban-nha-o-nha-xuong.html">Mua bán nhà ở/ Nhà xưởng</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/mua-ban/mua-ban-may-moc-thiet-bi.html">Mua bán máy móc/ thiết bị</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/mua-ban/mua-ban-ten-mien.html">Mua bán tên miền</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/mua-ban/mua-ban-theo-yeu-cau.html">Mua bán theo yêu cầu</a></span></span></li>
+		<li class='s5_menubottom'></li></ul></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/khach-hang.html">Khách Hàng<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>		<ul><li class='s5_toparrow'></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/khach-hang/danh-sach-cong-ty-viet-nam.html">Danh Sách Công Ty Việt Nam</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/khach-hang/cong-ty-thanh-lap-nam-2010.html">Công Ty Thành Lập Năm 2010</a></span></span></li>
+			<li class='noback'><span><span><a href="/khach-hang/khach-hang-muc-tieu.html" class="sub" target="_window" >Khách hàng mục tiêu</a></span></span>
+</li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/khach-hang/khach-hang-muc-tieu.html">Tương tác với khách hàng</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/khach-hang/chinh-sach-quyen-rieng-tu.html">Chính Sách Quyền Riêng Tư</a></span></span></li>
+		<li class='s5_menubottom'></li></ul></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/bieu-mau.html">Biểu Mẫu<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span>		<ul><li class='s5_toparrow'></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/bieu-mau/dang-ky-thanh-lap-congty.html">Đăng ký thành lập công ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/bieu-mau/bang-gia-thanh-lap-cong-ty.html">Bảng Giá Thành Lập Công Ty</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/bieu-mau/bang-gia-thay-doi-giay-phep.html">Bảng Giá Thay Đổi Giấy Phép</a></span></span></li>
+			<li class='noback'><span><span class="span_nonactive"><a class="sub" href="/bieu-mau/bang-gia-chuyen-doi-loai-hinh-cong-ty.html">Bảng Giá Chuyển Đổi Loại Hình Công Ty</a></span></span></li>
+		<li class='s5_menubottom'></li></ul></li>
+	<li><span class="s5_outer_active"><span><a class="active" href="/lien-he.html">Liên Hệ<span class="s5_bottom_text"></span></a><span class="s5_outerr"></span></span></span></li>
+</ul>							
+					</div>	
+				</div>
+				<!-- End Menu -->
+				    
+            	
+			</div>
+		</div>
+	</div>
+
+
+	<div style="clear:both;"></div>
+	
+	<div class="s5_controllermleft">
+		<div class="s5_controllermright">
+			<div class="s5_controllermiddle">
+					
+						
+			
+			
+			<div id="s5_advertgradient">	
+						
+			</div>
+			
+						<div class="s5_nicewrap">		
+				<div class="s5_nicewrap_inner">
+				<div class="s5_nicewrap_innerl">
+						
+					<div style="float:left;">
+						<div class="s5_nicewrap_inner_mtl"></div>
+						<div class="s5_nicewrap_inner_mtm"></div>
+						<div class="s5_nicewrap_inner_mbl"></div>
+					</div>
+						
+					<div style="float:left;">
+					<div class="s5_nicewrap_innertop">		
+						<!-- Breadcrumbs -->
+						<div id="s5_breadcrumbs">
+							<div id="s5_breadcrumbsinner">
+									<div class="moduletable">
+					<span style="color: #ffff00; font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong><span title="HỖ TRỢ TRỰC TUYẾN">Hổ Trợ Khách Hàng: <a href="tel:+84909800099">0909 800 099</a>&nbsp; -&nbsp; <a href="tel:+84903800099">0903 800 099</a> &nbsp; -&nbsp; <a href="tel:+8402862800099">(028)&nbsp;62800 099</a> &nbsp; -&nbsp; <a href="tel:+8402862900099">(028)&nbsp;62900 099</a> </span></strong><strong> (&nbsp;</strong><strong>24<span style="color: #ff0000;">/</span>7 )&nbsp;    <g:plusone size="standard"></g:plusone> &nbsp;
+
+<!-- Messenger Plugin chat facebook Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "843979932456324");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>		</div>
+	
+							</div>
+						</div>
+						<!-- End Breadcrumbs -->	
+					</div>
+					</div>
+						
+					<div style="float:right;">
+						<div class="s5_nicewrap_inner_mtr"></div>
+						<div class="s5_nicewrap_inner_mbm"></div>
+						<div class="s5_nicewrap_inner_mbr"></div>
+					</div>
+						
+						
+					<div class="s5_nicewrap_stmwrap">
+					<div class="s5_nicewrap_stm"></div>
+					</div>
+						
+				
+				</div>
+				</div>
+				<div style="clear:both;"></div>	
+			</div>
+						
+			<!-- Main Body -->	
+			<div style="width:100%;overflow:hidden;position:relative;background:#fffffff;">
+				<div id="s5_mainbodyfullw">
+				<div id="s5_mainbodywrapper">
+				<div id="s5_mainbody">	
+					<div id="s5_middlecolwrap">
+								<div class="s5_mainmiddleinnerwrap">
+									<div id="s5_getmaincolheight">
+										<div class="s5_mainmiddle_padding">	
+																							
+											<div id="s5_abovebodyusers">				
+											
+												
+												<div id="s5_positions">
+														
+														<div id="s5_user1_100">
+																
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						<marquee behavior="scroll" direction="left" scrollamount="6" scrolldelay="60" onmouseover="this.stop()" onmouseout="this.start()=10"><span style="font-size: 14pt; color: #ff0000;"><strong></strong></span></marquee><a target="_blank" href="http://www.greenlines.com.vn/"><span style="font-size: 14pt; color: #ff0000;"><strong></strong></span></a><marquee behavior="scroll" direction="left" scrollamount="3" scrolldelay="60" onmouseover="this.stop()" onmouseout="this.start()=10"><span style="font-size: 17pt; color: #ff0000;"><strong>&nbsp; Nhận thành lập công ty & thay đổi giấy phép trong toàn quốc</strong></span></marquee>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	
+														</div>
+																																						</div>
+												<div style="clear:both;"></div>	
+												
+											</div>
+											
+													
+										
+													
+											<div id="s5_bodygradientnoin">
+												
+											<div >
+												<div style="clear:both;"></div>	
+												
+																						
+													
+												
+												<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Khách Hàng			</td>
+				
+		
+					</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+<p>Cập Nhật</p></td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+																							</div>
+																							<div style="clear:both;"></div>	
+											</div>	
+											<div style="clear:both;"></div>	
+										</div>
+									</div>
+				
+								<div style="clear:both;"></div>	
+							</div>
+						</div>
+					</div>
+				</div>	
+				
+				
+				
+								
+				
+					
+				<div id="s5_rightcolumn" style="width:251px;margin-left:-251px;">
+					<div class="s5_whitemodleftwrap">
+						<div class="s5_whitemodrightwrap">
+							<div class="s5_backmiddlemiddle_r" style="width:237px;">
+
+										
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						<div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'vi'
+  }, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+&nbsp;
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1&appId=354814577910628";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+ <div class="fb-like" data-href="http://vietnam.net.co" data-send="true" data-layout="button_count" data-width="30" data-show-faces="true"></div>
+</p>
+<strong><img src="http://dichvucongty.com/hinhanh/alldomain.gif" alt="thanh-lap-cong-ty" /><a href="https://plus.google.com/114654779699677297452" rel="publisher" target=_blank> Google+</a>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+						
+						
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+						<h3 class="s5_mod_h3"><span class="s5_h3_first">HỖ </span> TRỢ TRỰC TUYẾN</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						&nbsp;&nbsp;&nbsp;<p style="text-align: left;"><strong><img src="/hinhanh/alldomain.gif" alt="thanh-lap-cong-ty" />Viber/Zalo/WhatsApp<img src="/hinhanh/Point.gif" alt="thanh-lap-cong-ty" /></strong></p></p></p>
+
+<p style="text-align: left;"><span style="font-family: times new roman,times; font-size: 12pt;"><strong><a href="tel:+84909800099">&nbsp;&nbsp; &nbsp;0909 800 099</a></strong></span><br /></p></p></p> 
+
+&nbsp;&nbsp;&nbsp;<span style="font-family: times new roman,times; font-size: 12pt;"><strong> <a href="tel:+84909300099">0903 800 099</a><br /></strong></span> </p></p></p>
+
+<span style="font-family: times new roman,times; font-size: 12pt;"><strong> <a href="tel:+8402862800099">&nbsp;&nbsp;&nbsp;&nbsp;028.62800 099</a></strong></span> 
+</p></p></p>
+<a href="skype:van_ut2002.yahoo.com?call"><img src="http://download.skype.com/share/skypebuttons/buttons/call_blue_white_124x52.png" style="border: medium none; display: block; margin-left: auto; margin-right: auto;" alt="Skype Me™!" height="52" width="124" /></a></p>
+<center><strong><br /></strong>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+						
+						
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+						<h3 class="s5_mod_h3"><span class="s5_h3_first">Bản </span> Đồ Chỉ Đường Google</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						<iframe width="238" height="238" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?
+
+f=d&amp;source=s_d&amp;saddr=&amp;daddr=C%C3%B4ng+Ty+TNHH+T%C6%B0+V%E1%BA%A5n+%C4%90%E1%BA%A7u+T%C6%B0+Vi%E1%BB%87t+Nam,+21+%C4%90%C6%B0%E1%BB%9Dng+S%E1%BB
+
+%91+8,+Ph%C6%B0%E1%BB%9Dng+Binh+H%C6%B0ng+H%C3%B2a,+Qu%E1%BA%ADn+B%C3%ACnh+T%C3%A2n,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam+(C%C3%B4ng+Ty+TNHH+T%C6%B0+V
+
+%E1%BA%A5n+%C4%90%E1%BA%A7u+T%C6%B0+Vi%E1%BB%87t+Nam)
+
+&amp;geocode=FSfJpAAdRsFaBg&amp;sll=10.799399,106.611014&amp;sspn=0.00802,0.009645&amp;t=h&amp;gl=US&amp;hl=vi&amp;mra=prev&amp;num=10&amp;ie=UTF8&amp;ll=10.
+
+799399,106.611014&amp;spn=0.00802,0.009645&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?
+
+f=d&amp;source=embed&amp;saddr=&amp;daddr=C%C3%B4ng+Ty+TNHH+T%C6%B0+V%E1%BA%A5n+%C4%90%E1%BA%A7u+T%C6%B0+Vi%E1%BB%87t+Nam,+21+%C4%90%C6%B0%E1%BB%9Dng+S
+
+%E1%BB%91+8,+Ph%C6%B0%E1%BB%9Dng+Binh+H%C6%B0ng+H%C3%B2a,+Qu%E1%BA%ADn+B%C3%ACnh+T%C3%A2n,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam+(C%C3%B4ng+Ty+TNHH+T
+
+%C6%B0+V%E1%BA%A5n+%C4%90%E1%BA%A7u+T%C6%B0+Vi%E1%BB%87t+Nam)
+
+&amp;geocode=FSfJpAAdRsFaBg&amp;sll=10.799399,106.611014&amp;sspn=0.00802,0.009645&amp;t=h&amp;gl=US&amp;hl=vi&amp;mra=prev&amp;num=10&amp;ie=UTF8&amp;ll=10.
+
+799399,106.611014&amp;spn=0.00802,0.009645" style="color:#0000FF;text-align:left">Xem Bản đồ cỡ lớn hơn</a></small>
+
+&nbsp; &nbsp; &nbsp;
+<a href="http://s08.flagcounter.com/more/IG1" target=_blank><img src="http://s08.flagcounter.com/count/IG1/bg=FFFFFF/txt=000000/border=E81748/columns=2/maxflags=68/viewers=0/labels=1/pageviews=1/" alt="free counters" border="0"></a>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+						
+						
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+						<h3 class="s5_mod_h3"><span class="s5_h3_first">website </span> thương mại điện tử</h3>
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						<strong><span title="website đã đăng ký thương mại điện tử"><a href="http://online.gov.vn/Home/WebDetails/69043" target="_blank"><img 
+src="http://online.gov.vn/Content/EndUser/LogoCCDVSaleNoti/logoSaleNoti.png" width="100%"></a></span></strong></p>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	
+							
+								<div style="clear:both;"></div>
+							</div>
+						</div>
+					</div>
+				</div>	
+								
+				
+				
+								</div>
+
+			</div>					
+					
+								
+		
+			<!-- End Main Body -->
+			
+			
+				
+			<div class="s5_nicewrap" >		
+				<div class="s5_nicewrap_inner">
+				<div class="s5_nicewrap_innerl">
+						
+					<div style="float:left;">
+						<div class="s5_nicewrap_inner_mtl"></div>
+						<div class="s5_nicewrap_inner_mtm" id="s5_setheightleft"></div>
+						<div class="s5_nicewrap_inner_mbl" id="s5_setmargintopleft"></div>
+					</div>
+										<div style="float:left;">
+					<div class="s5_nicewrap_innerr" id="s5_getheight">		
+						
+						<!-- Adverts -->	
+						<div class="s5_w_modwrap">
+								
+							<div id="s5_advert1_50">
+									
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4009618"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4009618&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+<p><span style="font-size: 10pt;"><span style="font-size: 8pt;"><a title="THÔNG TIN CẦN BIẾT KHI THÀNH LẬP CÔNG TY" href="/link/328-thong-tin-can-biet-khi-thanh-lap-cong-ty.html"><strong><img src="/hinhanh/alldomain.gif" alt="thanh-lap-cong-ty" /></strong></a><a title="THÔNG TIN CẦN BIẾT KHI THÀNH LẬP CÔNG TY" href="/link/328-thong-tin-can-biet-khi-thanh-lap-cong-ty.html"><strong></strong><span style="font-size: 8pt; color: #ff0000;"><strong> THÔNG TIN CẦN BIẾT KHI THÀNH LẬP CÔNG TY</strong></span></a><a title="THÔNG TIN CẦN BIẾT KHI THÀNH LẬP CÔNG TY" href="/link/328-thong-tin-can-biet-khi-thanh-lap-cong-ty.html"><strong></strong></a></span></span></p>
+<p><strong><span style="font-size: 10pt;"><a title="Điều kiện đăng ký kinh doanh" href="/link/320-dieu-kien-dang-ky-kinh-doanh.html">1. Điều kiện đăng ký kinh doanh ?</a></span></strong></p>
+<p><span style="font-size: 10pt; color: #000000;"><strong>2. <a title="Có bao nhiêu hình thức Công ty trách nhiệm hữu hạn ?" href="/link/321-co-bao-nhieu-hinh-thuc-cong-ty-tnhh-trach-nhiem-huu-han.html">Có bao nhiêu hình thức Công ty trách nhiệm hữu hạn ?</a></strong></span></p>
+<p><span style="font-size: 10pt;"><strong><a title="Thành viên của Công ty trách nhiệm hữu hạn" href="/link/322-thanh-vien-cua-cong-ty-tnhh-trach-nhiem-huu-han.html">3. Thành viên của Công ty trách nhiệm hữu hạn ?</a></strong></span></p>
+<p><span style="font-size: 10pt;"><strong><a title="Có hạn chế số lượng thành viên của một Công ty trách nhiệm hữu hạn hay không" href="/link/323-co-han-che-so-luong-thanh-vien-cua-mot-cong-ty-trach-nhiem-huu-han-hay-khong.html">4. Có hạn chế số lượng thành viên của một Công ty trách nhiệm hữu hạn hay không ?</a></strong></span></p>
+<p><a title="Trách nhiệm tài chính của thành viên Công ty trách nhiệm hữu hạn" href="/link/324-trach-nhiem-tai-chinh-cua-thanh-vien-cong-ty-trach-nhiem-huu-han.html"><span style="font-size: 10pt;"><strong>5. </strong><b style="color: #000000; font-family: Arial; font-size: 12px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">Trách nhiệm tài chính của thành viên Công ty trách nhiệm hữu hạn ?</b></span></a></p>
+<p><span style="font-size: 10pt;"><a title="Công ty trách nhiệm hữu hạn có được phép phát hành cổ phiếu hay không" href="/link/325-cong-ty-tnhh-trach-nhiem-huu-han-co-duoc-phep-phat-hanh-co-phieu-hay-khong.html"><span style="color: #000000;"><strong>6. </strong></span><b style="color: #000000; font-family: Arial; font-size: 12px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">Công ty trách nhiệm hữu hạn có được phép phát hành cổ phiếu hay không ?</b></a></span></p>
+<span style="font-size: 10pt;"><strong><span style="color: #000000;"><a title="Ai chịu trách nhiệm quản lý Công ty trách nhiệm hữu hạn" href="/link/326-ai-chiu-trach-nhiem-quan-ly-cong-ty-tnhh-trach-nhiem-huu-han.html">7. Ai chịu trách nhiệm quản lý Công ty trách nhiệm hữu hạn ?</a></span></strong></span>
+<p><a title="Có giới hạn thành lập chi nhánh, văn phòng đại diện, địa điểm kinh doanh của Công ty (TNHH) trách nhiệm hữu hạn" href="/link/327-co-gioi-han-thanh-lap-chi-nhanh-van-phong-dai-dien-dia-diem-kinh-doanh-cua-cong-ty-tnhh-trach-nhiem-huu-han.html"><span style="font-size: 10pt;"><strong>8. Có giới hạn thành lập chi nhánh, văn phòng đại diện, địa điểm kinh doanh của Công ty (TNHH) trách nhiệm hữu hạn ?</strong></span></a></p>
+<p style="padding-left: 120px;"><a title="xem tiep" href="/link/328-thong-tin-can-biet-khi-thanh-lap-cong-ty.html"><span style="font-size: 12pt;"><strong><span style="color: #ff0000;">.:: Xem Tiếp &gt;&gt;&gt;</span></strong></span></a></p>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+		
+							</div>
+															
+							<div id="s5_advert2_50">	
+									
+						
+				<div class="module">		
+			<div class="s5_moduletl">	
+				<div class="s5_moduletr">	
+					<div class="s5_moduletm">	
+					</div>
+				</div>	
+			</div>
+			<div class="s5_moduleml">
+				<div class="s5_modulemr">	
+					<div class="s5_modulemm">	
+						<a data-size="large" data-via="dichvucongty" data-url="http://www.dichvucongty.com" class="twitter-share-button" href="https://twitter.com/share">Tweet</a></strong></span>
+<p> </p>
+<!-- Messenger Plugin chat Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "843979932456324");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+<a href='http://online.gov.vn/Home/WebDetails/69043><img alt='' title='' src='http://online.gov.vn/Content/EndUser/LogoCCDVSaleNoti/logoSaleNoti.png'/></a>					</div>	
+				</div>
+			</div>
+			<div class="s5_modulebl">	
+				<div class="s5_modulebr">	
+					<div class="s5_modulebm">	
+					</div>
+				</div>	
+			</div>
+		</div>
+		
+	
+							</div>
+																
+							<div style="clear:both;"></div>	
+						</div>
+						<!-- End Adverts -->
+					</div>
+					
+					</div>
+						
+					<div style="float:right;">
+						<div class="s5_nicewrap_inner_mtr"></div>
+						<div class="s5_nicewrap_inner_mbm" id="s5_setheightright"></div>
+						<div class="s5_nicewrap_inner_mbr" id="s5_setmargintopright"></div>
+					</div>
+										
+										<div class="s5_nicewrap_stmwrap" id="s5_setheightshad">
+					<div class="s5_nicewrap_stm"></div></div>
+									
+				</div>
+				</div>
+				<div style="clear:both;"></div>	
+			</div>
+				
+			<script type="text/javascript">
+				function s5_load_pos() {
+				var posmain = 0;
+				posmain = document.getElementById("s5_getheight").offsetHeight;
+				document.getElementById("s5_setheightright").style.height = posmain + "px";
+				document.getElementById("s5_setheightleft").style.height = posmain + "px";
+				document.getElementById("s5_setmargintopright").style.marginTop = posmain + "px";
+				document.getElementById("s5_setmargintopleft").style.marginTop = posmain + "px";
+				document.getElementById("s5_setheightshad").style.top = posmain + "px";
+				window.setTimeout('s5_load_pos()', 1000);}
+				s5_load_pos();					
+			</script>	
+							
+			
+			
+				
+			
+			    <div>
+        		<div class="moduletable">
+					<table border="0">
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;<span style="font-family: 'times new roman', times; font-size: 14pt;"><b>CÔNG TY TNHH TƯ</b><b> V</b><b>ẤN ĐẦU TƯ</b><b> VI</b><b>ỆT NAM<br /></b></span><span style="font-family: 'times new roman', times; font-size: 16px;"><span style="color: #ff0000;"><b>V</b></span>iet&nbsp;<span style="color: #ff0000;"><b>N</b></span>am<span style="color: #ff0000;"><b> I</b></span>nvestment&nbsp;<span style="color: #ff0000;"><b>C</b></span>onsultant&nbsp;<span style="color: #ff0000;"><b>Co</b></span>mpany Limited<br />21&nbsp;Đường Số 8, Phường Bình Hưng Hòa, Quận Bình Tân, TP. HCM, Việt Nam<br /></span>
+
+<p style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 12pt;"><img width="200" height="105" src="/images/stories/cong ty.png" alt="logo_VNIC_2" /></span></p>
+
+<p><a target="_blank" href="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=&amp;daddr=21+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+8,+Qu%E1%BA%ADn+B%C3%ACnh+T%C3%A2n&amp;hl=vi&amp;geocode=FSjJpAAdSMFaBg&amp;mra=ltm&amp;dirflg=w&amp;doflg=ptk&amp;sll=10.795199,106.697845&amp;sspn=0.165251,0.307274&amp;ie=UTF8&amp;ll=10.788117,106.643085&amp;spn=0.088024,0.154324&amp;z=13"></a></p>
+
+<p><span style="font-family: 'times new roman', times; font-size: 10pt;"><b>Webside</b>: </span>&nbsp; &nbsp;&nbsp;<a href="http://www.vnic.co/" target="_blank"><b>www.vnic.</b><span style="color: #ff0000;"><b>co</b></span></a> - &nbsp;&nbsp;<a href="http://dichvucongty.com/" target="_blank"><b>www.&nbsp;dichvucongty.com<br /></b></a><br /><span style="font-family: 'times new roman', times; font-size: 10pt;"><span style="color: #000000;"> <b>Email</b>:</span>&nbsp;<a href="mailto:info@vnic.co">info@vnic.<strong><span style="color: #ff0000;">co</span></strong></a>&nbsp;-&nbsp;&nbsp;<a target="_blank" href="mailto:info@dichvucongty.com?cc=info@vnic.co&amp;subject=Toi ten...... So dien thoai lien he...">info@dichvucongty.com<br /></a></span><br /><span style="color: #000000;"><span style="font-family: 'times new roman', times; font-size: 10pt;"> <b>Hotlines</b></span><span style="font-family: 'times new roman', times; font-size: 10pt;">: </span></span><span style="font-family: 'times new roman', times; font-size: 10pt; color: #000000;"><a href="tel:+84909800099">0909800 099</a> &nbsp;-&nbsp;<a href="tel:+84903800099">0903800 099</a><br /></span><br /> <span style="font-family: 'times new roman', times; font-size: 10pt;"><span style="color: #000000;"> <b>Điện thoại:</b>&nbsp; </span><span style="color: #0000ff;"><a href="tel:+8402862800099">(028)&nbsp;62800 099</a>  - <span style="color: #000000;"> </span><a href="tel:+8402862900099">(028)&nbsp;62900 099</a> </span> </p>
+<b>
+<p> </p>
+<a href="http://www.wieistmeineip.de/cometo/?en"><img width="468" height="60" border="0" alt="IP" src="http://www.wieistmeineip.de/ip-address/?size=468x60" /></a></td>
+<td></td>
+<td><form target="_blank" id="cse-search-box" action="http://www.google.com.vn/cse"><input type="hidden" value="lgVyBr0wJV56eOa7FlaLfCznob0" name="phpMyAdmin" />
+<div><input type="hidden" value="partner-pub-2029995731869759:e3cuwaz1dvf" name="cx" /> <input type="hidden" value="UTF-8" name="ie" /> <input type="text" size="28" name="q" /> <input type="submit" value="Tìm kiếm" name="sa" /></div>
+</form> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+</tr>
+</tbody>
+</table>		</div>
+	
+    </div>
+		
+			
+			</div>
+		</div>
+	</div>	
+	<div id="s5_menubackbl">
+		<div id="s5_menubackbr">
+			<div id="s5_menubackbm"></div>
+		</div>
+	</div>
+	
+	<div id="s5_footergrad">
+		
+			
+	</div>	
+
+	<div style="height:30px;clear:both;"></div>
+	
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://www.vnic.co/templates/fusion/js/s5_suckerfish.js"></script>
+ 
+</body>
+</body>
+
+
+
+</html>

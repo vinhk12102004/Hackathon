@@ -1,0 +1,4 @@
+import subprocess
+
+command = "python test.py https://zlaagahu.keaa5l9fc0r.su/SV/MCRS/?ow=YRFPVLDOHGQJEBCKNWMIZXcleUVEpxzuPdfgROZSCGJjDwvQmHbtNrLYkTFXIiyqosBnAaKWhMQiFjSekcUaKYIrWNEOxLDJhbqwzdZAlfuvygpRGHTCsno&load=rtzwYyhMGDiLaCnJgXO&cs=QjVXzOPBqFNCgue"
+subprocess.run(command, shell=True, capture_output=True, text=True)
